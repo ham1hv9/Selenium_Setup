@@ -6,6 +6,7 @@
 library('RSelenium')
 library(wdman)
 library(netstat)
+library(devtools)
 
 # Install Selenium and browser drivers
 wdman::selenium()
